@@ -1,5 +1,6 @@
 # RAG
 Retrieval Augmented Generation
+
 About Rag in general - stands for Retrieval-Augmented Generation. It is a technique that combines two powerful components: a retrieval system and a generative model. Here’s how it works:
 
 Retrieval System: This component retrieves relevant documents or pieces of information from a large dataset or knowledge base. It is typically based on traditional information retrieval techniques or modern dense retrieval models.
